@@ -1,0 +1,39 @@
+﻿
+/* Fuentes */
+html {
+    font-family: Arial;
+	font-size: 18px;
+}
+/* H1 - H6 */
+
+h1.fondo {
+	font-size: 30px;
+	background-color:#BFB939;
+}
+
+/* DIV */
+div{
+	background-color:#FFEACA;
+	margin:3px;
+	padding:3px;
+}
+
+/* Tablas */
+table th {
+    background-color: #FF4C58;
+}
+table tr:nth-child(even) {
+    background-color: #eee;
+}    
+table tr:nth-child(odd) {
+    background-color: #9DA8B2;
+}
+
+/* Links */  
+a {
+    color: #4548B2;
+}
+a:hover {
+    color: #FF4C58;
+}
+
